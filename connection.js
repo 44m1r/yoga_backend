@@ -1,10 +1,10 @@
 import sql from "mysql"
 
 const connection = sql.createConnection({
-    host: 'sql12.freemysqlhosting.net',
-    user: 'sql12671606',
-    password: '2LIdDq6ukz',
-    database: 'sql12671606',
+    host: 'mysql-5abcd1d-codingonly41-2cf1.a.aivencloud.com',
+    user: 'avnadmin',
+    password: 'AVNS_vVm81iIwC5wWV97y27i',
+    database: 'defaultdb',
   });
   
   // Connect to MySQL
